@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a git
 hello how are you doing?
+=======
+This is a git
+>>>>>>> parent of 7108ffd (first commit)
